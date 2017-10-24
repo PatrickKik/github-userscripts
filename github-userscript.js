@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         github-userscript
 // @namespace    nl.patrickkik
-// @version      1.0
+// @version      1.1
 // @description  Tampermonkey/Greasemonkey userscripts to modify GitHub to my preferences.
 // @author       Patrick Kik
 // @match        https://github.com/*/pull/*/files
